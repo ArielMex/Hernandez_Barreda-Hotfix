@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aryhd\\OneDrive\\Documentos\\10mo cuatri\\majo\\Hernandez_Barreda-Hotfix\\Hotfix\\Hotfix.csproj": {}
+    "c:\\Users\\aryhd\\OneDrive\\Documentos\\10mo cuatri\\majo\\Hernandez_Barreda-Hotfix\\Hotfix\\Hotfix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aryhd\\OneDrive\\Documentos\\10mo cuatri\\majo\\Hernandez_Barreda-Hotfix\\Hotfix\\Hotfix.csproj": {
+    "c:\\Users\\aryhd\\OneDrive\\Documentos\\10mo cuatri\\majo\\Hernandez_Barreda-Hotfix\\Hotfix\\Hotfix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aryhd\\OneDrive\\Documentos\\10mo cuatri\\majo\\Hernandez_Barreda-Hotfix\\Hotfix\\Hotfix.csproj",
+        "projectUniqueName": "c:\\Users\\aryhd\\OneDrive\\Documentos\\10mo cuatri\\majo\\Hernandez_Barreda-Hotfix\\Hotfix\\Hotfix.csproj",
         "projectName": "Hotfix",
-        "projectPath": "C:\\Users\\aryhd\\OneDrive\\Documentos\\10mo cuatri\\majo\\Hernandez_Barreda-Hotfix\\Hotfix\\Hotfix.csproj",
+        "projectPath": "c:\\Users\\aryhd\\OneDrive\\Documentos\\10mo cuatri\\majo\\Hernandez_Barreda-Hotfix\\Hotfix\\Hotfix.csproj",
         "packagesPath": "C:\\Users\\aryhd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aryhd\\OneDrive\\Documentos\\10mo cuatri\\majo\\Hernandez_Barreda-Hotfix\\Hotfix\\obj\\",
+        "outputPath": "c:\\Users\\aryhd\\OneDrive\\Documentos\\10mo cuatri\\majo\\Hernandez_Barreda-Hotfix\\Hotfix\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

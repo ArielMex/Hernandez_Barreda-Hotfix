@@ -3,7 +3,7 @@
     Nombre = "Bruno",
     Clase = "Guerrero",
     Nivel = 10,
-    Vida = 100,
+    Vida = -100,
     Fuerza = 80
 };
 
